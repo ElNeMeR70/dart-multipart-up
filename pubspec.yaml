@@ -1,0 +1,5 @@
+name: dart_multipart_up
+description: Multipart file upload with progress tracking
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
